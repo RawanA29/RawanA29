@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ My name is Rawan Aboughanem, and I am a student at Grand Blanc High School
 <!--
 **RawanA29/RawanA29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
