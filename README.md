@@ -3,7 +3,9 @@
 
  - I am very commited to my school.
 
- - I can read and write both English and Arabic
+ - I can read and write both English and Arabic.
+
+ - I am good with kids and have babysat before. 
 <!--
 **RawanA29/RawanA29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
