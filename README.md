@@ -24,6 +24,7 @@
 * MakeCode Arcade
 * GitHub/GitLab
 
-## Scoial media
+## Social media
 Instagram: rawanaboughanem
+
 Snapchat: rawanaboughanem
