@@ -9,7 +9,6 @@
 
  - I am currently in NHS, and advanced class in school.
 
-📫 How to reach me: <a href='mailto:your.email@example.com'>rawanoag29@gmail.com</a>
 
 <p align='center'>
  <a href="https://github-readme-stats.vercel.app/api?username=RawanA29&show_icons=true&count_private=true">
@@ -28,3 +27,6 @@
 Instagram: rawanaboughanem
 
 Snapchat: rawanaboughanem
+
+
+📫 How to reach me: <a href='mailto:your.email@example.com'>rawanoag29@gmail.com</a>
