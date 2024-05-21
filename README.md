@@ -16,7 +16,7 @@
 	   <a href="https://t.me/yourchannel">
 	       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 	   </a>
-	   📫 How to reach me: <a href='mailto:your.email@example.com'>your.email@example.com</a>
+	   📫 How to reach me: <a href='mailto:your.email@example.com'>rawanoag29@gmail.com</a>
 	</p>
 ![image](https://github.com/RawanA29/RawanA29/assets/170124122/ca1ac089-3f88-4640-9b37-1a851c603b75)
 
