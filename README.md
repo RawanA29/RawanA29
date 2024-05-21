@@ -1,5 +1,5 @@
 ### Hi there 👋
- My name is Rawan Aboughanem, and I am a student at Grand Blanc High School. I plan to graduate highschool and go into medical school at a university, I want to study life sciences and protentoially be a dentist or dermatologist. I plan to start working when I turn 16 so I can pave the way of my experiences leading me to a successful future. Now, here's some facts about me:
+ My name is Rawan Aboughanem, and I am a student at Grand Blanc High School. I plan to graduate highschool and go into medical school at a university, I want to study life sciences and potentially be a dentist or dermatologist. I plan to start working when I turn 16 so I can pave the way of my experiences leading me to a successful future. Now, here's some facts about me:
 
  - I am very commited to my school.
 
