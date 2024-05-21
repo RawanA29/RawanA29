@@ -20,6 +20,13 @@
    </a>
 </p>
 
+## Some of my work
+
+https://arcade.makecode.com/S88359-07268-93537-88184 
+
+https://arcade.makecode.com/S03276-14505-52224-71142
+
+
 ## 🛠 Technology Stack
 * MakeCode Arcade
 * GitHub/GitLab
