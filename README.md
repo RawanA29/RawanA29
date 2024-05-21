@@ -8,19 +8,15 @@
  - I am good with kids and have babysat before.
 
  - I am currently in NHS, and advanced class in school.
-   
-	<p align='center'>
-	    <a href="https://www.linkedin.com/in/yourprofile/">
+
+   	<p align='center'>
+	   <a href="https://www.linkedin.com/in/yourprofile/">
 	       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	   </a>
 	   <a href="https://t.me/yourchannel">
 	       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 	   </a>
-
-	   </a>
 	   📫 How to reach me: <a href='mailto:your.email@example.com'>rawanoag29@gmail.com</a>
 	</p>
-![image](https://github.com/RawanA29/RawanA29/assets/170124122/ca1ac089-3f88-4640-9b37-1a851c603b75)
-
-
+![image](https://github.com/RawanA29/RawanA29/assets/170124122/2e16cec6-1f18-4287-aad2-7c06c3f03753)
 
