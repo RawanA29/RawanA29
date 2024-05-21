@@ -21,6 +21,6 @@
 </p>
 
 ## 🛠 Technology Stack
-* MkaeCode Arcade
+* MakeCode Arcade
 * GitHub/GitLab
 
