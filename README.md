@@ -9,6 +9,7 @@
 
  - I am currently in NHS, and advanced class in school.
 
+## Stats
 
 <p align='center'>
  <a href="https://github-readme-stats.vercel.app/api?username=RawanA29&show_icons=true&count_private=true">
