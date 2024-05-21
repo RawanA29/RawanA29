@@ -9,6 +9,6 @@
 
  - I am currently in NHS, and advanced class in school.
 
-	   📫 How to reach me: <a href='mailto:your.email@example.com'>rawanoag29@gmail.com</a>
+📫 How to reach me: <a href='mailto:your.email@example.com'>rawanoag29@gmail.com</a>
 
 
